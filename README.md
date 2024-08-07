@@ -80,8 +80,13 @@ Web Platform use flow
 
 10- Demo (click on the image to be redirect on youtube)
 
-[![Flower Empower Demo](![Screenshot 2024-08-06 alle 17 16 36](https://github.com/user-attachments/assets/37e5ecd1-53d4-4b04-b115-6744c19a0d5d)
-)](https://www.youtube.com/watch?v=BDcEc41WqzU)
+[![Screenshot 2024-08-06 alle 17 16 36](https://github.com/user-attachments/assets/37e5ecd1-53d4-4b04-b115-6744c19a0d5d)
+](https://www.youtube.com/watch?v=BDcEc41WqzU)
+
+11- The team behind this project
+
+
+<img width="1470" alt="Screenshot 2024-08-07 alle 09 34 35" src="https://github.com/user-attachments/assets/6c0e301d-8a47-482b-86b2-e2e8323391c4">
 
 
 
