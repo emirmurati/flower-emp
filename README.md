@@ -83,7 +83,13 @@ Web Platform use flow
 [![Screenshot 2024-08-06 alle 17 16 36](https://github.com/user-attachments/assets/37e5ecd1-53d4-4b04-b115-6744c19a0d5d)
 ](https://www.youtube.com/watch?v=BDcEc41WqzU)
 
-11- The team behind this project
+
+11- Tech Used 
+
+<img width="1414" alt="Screenshot 2024-08-08 alle 11 41 58" src="https://github.com/user-attachments/assets/ff2f14e4-2626-4876-9ad7-c902d6c2e4b5">
+
+
+12- The team behind this project
 
 
 <img width="1470" alt="Screenshot 2024-08-07 alle 09 34 35" src="https://github.com/user-attachments/assets/6c0e301d-8a47-482b-86b2-e2e8323391c4">
